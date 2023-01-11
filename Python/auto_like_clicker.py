@@ -16,7 +16,3 @@ def like_click():
 
 while True:
         like_click()
-        like_click()
-        like_click()
-        like_click()
-        like_click()
